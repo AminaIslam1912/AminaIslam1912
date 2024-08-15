@@ -1,4 +1,4 @@
-![I am Amina](https://github.com/AminaIslam1912/Amina-Islam/blob/main/code.png)
+![I am Amina](https://github.com/AminaIslam1912/AminaIslam1912/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm AMINA ISLAM(Jenny)</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
