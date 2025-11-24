@@ -14,7 +14,7 @@ Skills: C / C++ / Java /JS / HTML / CSS
 
 
 
-- 🌱 I’m currently learning HTML, CSS, JS 
+- 🌱 I’m currently learning Ract.js, Next.js
 
 - 👨‍💻 All of my projects are available at [https://github.com/AminaIslam](https://github.com/AminaIslam1912)
 
